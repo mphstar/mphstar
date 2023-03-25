@@ -1,7 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://youtube.com/mphstar">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +20,13 @@
 
 ---
 
-👋 Hi, I’m @mphstar
+<div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+</div>
+
+
+- 👋 Hi, I’m @mphstar
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web / mobile applications.
 
 - :seedling: An informatics Engineering Student.
@@ -27,6 +34,9 @@
 - :zap: In my free time, I code something or playing a game.
 
 - :mailbox:How to reach me: <a href="https://wa.me/62895393933040"><img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br />
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -50,8 +60,14 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mphstar&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mphstar&theme=dracula)](https://mphstar.tech)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mphstar&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mphstar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mphstar&bg_color=121212&color=ffffff&line=cccccc&point=4a51b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mphstar&layout=compact&theme=vision-friendly-dark)](https://mphstar.tech)
+<a href="https://mphstar.tech/" >
+   <img src="https://lanyard.kyrie25.me/api/667270803896926208?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
+</a>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mphstar&bg_color=121212&color=ffffff&line=cccccc&point=4a51b5&area=true&hide_border=true)](https://mphstar.tech)
