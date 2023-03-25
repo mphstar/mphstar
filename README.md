@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I code something or playing a game.
 
-- :mailbox:How to reach me: <a href="wa.me/62895393933040"><img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+- :mailbox:How to reach me: <a href="https://wa.me/62895393933040"><img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
