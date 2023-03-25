@@ -60,14 +60,15 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mphstar&theme=dracula)](https://mphstar.tech)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mphstar&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mphstar&layout=compact&theme=vision-friendly-dark)](https://mphstar.tech)
 <a href="https://mphstar.tech/" >
    <img src="https://lanyard.kyrie25.me/api/667270803896926208?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mphstar&theme=dracula)](https://mphstar.tech)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mphstar&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mphstar&layout=compact&theme=vision-friendly-dark)](https://mphstar.tech)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mphstar&bg_color=121212&color=ffffff&line=cccccc&point=4a51b5&area=true&hide_border=true)](https://mphstar.tech)
