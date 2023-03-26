@@ -74,7 +74,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mphstar&bg_color=121212&color=ffffff&line=cccccc&point=4a51b5&area=true&hide_border=true)](https://mphstar.tech)
 
 ---
+
+### 🎵 Music :
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i5vhvv2wls8x7iv5dqem2tleq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=i5vhvv2wls8x7iv5dqem2tleq&redirect=true)
 
-
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=i5vhvv2wls8x7iv5dqem2tleq)
