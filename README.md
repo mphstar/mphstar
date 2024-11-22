@@ -20,14 +20,26 @@
 
 ---
 
+
+
 <div align="center">
-<img height="300" width="300" src="https://img.wakwb.com/large/0064bljEgy1gzwimnd3o9g308y098781.gif">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=32&pause=1000&color=2E2E2ED1&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mphstar~!;Welcome+to+my+profile.;Lets+have+an+adventure" alt="Typing SVG" /></a>
 </div>
 
 
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%; border: none;">
+      <h1>💫 About Me:</h1>
+      <p>👏 Hi, I'm Mphstar, Call me Star or Bintang</p>
+      <p>💻 I’m working as a Software Engineer and contributing to frontend and backend for building web/mobile applications.</p>
+    </td>
+    <td style="text-align: center; width: 50%; border: none;">
+      <img height="300" width="300" src="https://img.wakwb.com/large/0064bljEgy1gzwimnd3o9g308y098781.gif" alt="Mphstar's image">
+    </td>
+  </tr>
+</table>
 
-# 💫 About Me:
-👏 Hi, I'm Mphstar, Call me star or bintang<br>💻 I’m working as a Software Engineer and contributing to frontend and backend for building web / mobile applications.
 
 
 ## 🌐 Socials:
