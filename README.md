@@ -26,19 +26,13 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=32&pause=1000&color=2E2E2ED1&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mphstar~!;Welcome+to+my+profile.;Lets+have+an+adventure" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <div align="left">
-    <h1>💫 About Me:</h1>
-      <p>👏 Hi, I'm Mphstar, Call me Star or Bintang</p>
-      <p>💻 I’m working as a Software Engineer and contributing to frontend and backend for building web/mobile applications.</p>
+<img align="right" height="300" width="300" src="https://img.wakwb.com/large/0064bljEgy1gzwimnd3o9g308y098781.gif" alt="Mphstar's image">
+  
+<h1>💫 About Me:</h1>
+- 👏 Hi, I'm Mphstar, Call me Star or Bintang</p>
+- 💻 I’m working as a Software Engineer and contributing to frontend and backend for building web/mobile applications.</p>
+    
   </div>
-  <div align="right">
-    <img height="300" width="300" src="https://img.wakwb.com/large/0064bljEgy1gzwimnd3o9g308y098781.gif" alt="Mphstar's image">
-  </div>
-</div>
-
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mphstar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Mphstar._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mphstar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mphstar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mphstar) 
