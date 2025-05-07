@@ -72,9 +72,9 @@
 
 <br clear="both">
 
-<picture>
+<!-- <picture>
   <img src="https://raw.githubusercontent.com/mphstar/mphstar/output/snake.svg" alt="Snake animation" />
-</picture>
+</picture> -->
 
 ###
 
