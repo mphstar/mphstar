@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="100"/>
+  <img src="https://i.imgflip.com/65efzo.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,7 +26,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=32&pause=1000&color=2E2E2ED1&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mphstar~!;Welcome+to+my+profile.;Lets+have+an+adventure" alt="Typing SVG" /></a>
 </div>
 
-<img align="right" height="300" width="300" src="https://img.wakwb.com/large/0064bljEgy1gzwimnd3o9g308y098781.gif" alt="Mphstar's image">
+<!-- <img align="right" height="300" width="300" src="https://img.wakwb.com/large/0064bljEgy1gzwimnd3o9g308y098781.gif" alt="Mphstar's image"> -->
   
 <h1>💫 About Me:</h1>
 - 👏 Hi, I'm Mphstar, Call me Star or Bintang</p>
